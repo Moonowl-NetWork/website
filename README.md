@@ -1,7 +1,7 @@
-#trademarks
+##trademarks
 there will be some of our trademarks
 
-#funcionality
+##funcionality
 a fully responsive site
  
-#note: if this ever gets out dated we won't update the site unless new features are added
+##note: if this ever gets out dated we won't update the site unless new features are added
